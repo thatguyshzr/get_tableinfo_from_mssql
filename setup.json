@@ -1,0 +1,8 @@
+{
+    "server":"servername",
+    "user":"username",
+    "password":"password",
+    "database":"dbname",
+    "tablename":"tablename",
+    "tableschema":"schema"
+}
